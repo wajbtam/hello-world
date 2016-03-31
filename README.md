@@ -1,2 +1,2 @@
 # hello-world
-just output “hello world！”
+just output “hello world”
